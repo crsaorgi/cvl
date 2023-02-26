@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+crsorsgi-govt.in	TRUE	/	FALSE	1999999999	PHPSESSID	e825a676159d45d230604bba77000b0c
+.crsorgi.gov.in	TRUE	/	FALSE	1999999999	TS015317c1	01e3182d35a6c5852af6d79e65213b2e60d6e7b5f932b6ba2da18b3ecfc0764901a6ea00ffbf4617aa520b661f1532e4657537012b
+
